@@ -52,7 +52,7 @@ SkillSprint/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Pragati-cse/SkillSprint.git
 cd SkillSprint
 ```
 
